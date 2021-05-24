@@ -1,10 +1,6 @@
 ### Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/ranielison/">
-  <img align="left" alt="Raniélison LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação. 
+Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação e em uma busca constante pelo conhecimento. 
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter)&nbsp;
@@ -20,6 +16,16 @@ Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação.
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranielison&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+ <div>
+  <a href="https://github.com/ranielison">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranielison&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranielison&layout=compact&langs_count=10&theme=radical"/>
+<div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ranielison&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=radical)
+<br/>
+  
+### Contatos
+<div>
+  <a href = "mailto: ranielisonsoares2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ranielison" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
