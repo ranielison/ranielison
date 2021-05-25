@@ -1,6 +1,6 @@
 ### Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mim:
+### <img src="https://github.com/ranielison/ranielison/blob/main/Developer.gif?raw=true" width="45px"> Sobre mim:
 
 Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação e em uma busca constante por conhecimento e novos desafios. 
 
