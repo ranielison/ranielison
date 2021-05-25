@@ -1,6 +1,17 @@
 ### Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação e em uma busca constante pelo conhecimento. 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mim:
+
+Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação e em uma busca constante por conhecimento e novos desafios. 
+
+- 🏦 Atualmente trabalho com desenvolvimento mobile em Flutter 💙 
+- 🏃‍♂️ Participei das maratonas de programação da ICPC em 2017 | 2018 | 2019
+- 💻 Minha primeira linguagem de programação foi C
+- 📖 Atualmente estou estudando sobre Clean Architecture e Unit Test
+- 💬 Converse comigo sobre tecnologia, séries e astronomia
+- ⚡ Fato interessante: Sei montar o cubo mágico em menos de um minuto
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter)&nbsp;
@@ -21,6 +32,7 @@ Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação e e
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranielison&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranielison&layout=compact&langs_count=10&theme=radical"/>
 <div>
+
 
 <br/>
   
