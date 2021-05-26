@@ -12,7 +12,7 @@ Meu nome é Raniélison, tenho 23 anos, graduado em Ciência da Computação e e
 - ⚡ Fato interessante: Sei montar o cubo mágico em menos de um minuto
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack 
 
 ![HTML](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter)&nbsp;
 ![HTML](https://img.shields.io/badge/-Dart-02569B?style=for-the-badge&logo=Dart)&nbsp;
