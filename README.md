@@ -9,7 +9,7 @@ Meu nome é Raniélison Soares, tenho 23 anos, sou graduado em Ciência da Compu
 - 💻 Minha primeira linguagem de programação foi C.
 - 📖 Atualmente estou estudando sobre Clean Architecture e Unit Tests.
 - 💬 Converse comigo sobre tecnologia, séries e astronomia.
-- ⚡ Fato interessante: Sei montar o cubo mágico em menos de um minuto..
+- ⚡ Fato interessante: Sei montar o cubo mágico em menos de um minuto.
 
 
 ### 🛠 &nbsp;Tech Stack 
