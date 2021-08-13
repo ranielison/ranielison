@@ -5,11 +5,11 @@
 Meu nome é Raniélison Soares, tenho 23 anos, sou graduado em Ciência da Computação e em uma busca constante por conhecimento e novos desafios. 
 
 - 🏦 Atualmente trabalho com desenvolvimento mobile em Flutter 💙 
-- 🏃‍♂️ Participei das maratonas de programação da ICPC em 2017 | 2018 | 2019.
-- 💻 Minha primeira linguagem de programação foi C.
-- 📖 Atualmente estou estudando sobre Clean Architecture e Unit Tests.
-- 💬 Converse comigo sobre tecnologia, séries e astronomia.
-- ⚡ Fato interessante: Sei montar o cubo mágico em menos de um minuto.
+- 🏃‍♂️ Participei das maratonas de programação da ICPC em 2017 | 2018 | 2019
+- 💻 Minha primeira linguagem de programação foi C
+- 📖 Atualmente estou estudando sobre Clean Architecture e Unit Tests
+- 💬 Converse comigo sobre tecnologia, séries e astronomia
+- ⚡ Fato interessante: Sei montar o cubo mágico em menos de um minuto
 
 
 ### 🛠 &nbsp;Tech Stack 
