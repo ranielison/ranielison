@@ -1,4 +1,4 @@
-### Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Olá Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### <img src="https://github.com/ranielison/ranielison/blob/main/Developer.gif?raw=true" width="45px"> Sobre mim
 
