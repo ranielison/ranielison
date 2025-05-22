@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/ranielison/ranielison/blob/main/Developer.gif?raw=true" width="45px"> Sobre mim
 
-Meu nome é Raniélison Soares, tenho 25 anos, sou graduado em Ciência da Computação e em uma busca constante por conhecimento e novos desafios. 
+Meu nome é Raniélison Soares, tenho 27 anos, sou graduado em Ciência da Computação e em uma busca constante por conhecimento e novos desafios. 
 
 - 🏦 Atualmente trabalho com desenvolvimento mobile em Flutter 💙 
 - 🏃‍♂️ Participei das maratonas de programação da ICPC em 2017 | 2018 | 2019
